@@ -28,4 +28,4 @@
 
 <h3>Onde me encontrar</h3>
 
-![Linkedin](https://img.shields.io/badge/-britoeder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/britoeder/) [![Gmail Badge](https://img.shields.io/badge/-eder.brito@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eder.brito@outlook.com)](mailto:eder.brito@outlook.com)
+[![Linkedin](https://img.shields.io/badge/-britoeder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/britoeder/)](https://www.linkedin.com/in/britoeder/) [![Gmail Badge](https://img.shields.io/badge/-eder.brito@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eder.brito@outlook.com)](mailto:eder.brito@outlook.com)
