@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e se aperfeiçoando todos os dias.
 - 🎓 Formado em **Sistemas de Informação**.
-- 💼 Trabalhando como **Cloud Infrastructure Analyst** na <a href="[https://www.plss.com.br/](https://flowti.com.br/)">**Flowti**</a>
+- 💼 Trabalhando como **Cloud Infrastructure Analyst** na <a href="[https://www.plss.com.br/](https://flowti.com.br/)">Flowti</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Cloud, DevOps e suas ferramentas**.
 
 <h3>Minhas Skills</h3>
