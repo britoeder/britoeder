@@ -11,7 +11,7 @@
 
 **Aplicações e dados**
 
-![TerraForm](https://img.shields.io/badge/-TerraForm-333333?style=flat&logo=Terraform) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL) 
+![TerraForm](https://img.shields.io/badge/-TerraForm-333333?style=flat&logo=Terraform) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL) ![Microsoft SQL Server]([https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL](https://img.shields.io/badge/-sqlServer-333333?style=flat&logo=MicrosoftSQLServer)) 
 
 **DevOps**
 
